@@ -1,0 +1,13 @@
+- addEventListener()
+```Check its syntax```
+- type of events
+- timeStamp
+- defaultPrevented
+- target
+- toElement
+- ```srcElement``` 
+- currentTarget
+- clientX, clientY, screenX, screenY => ```Interview question```
+- altKey, ctrlKey, shiftKey, keyCode
+- event propogation -> event capturing and event bubbling
+- default value = false; inside se outside event propagation
