@@ -1,5 +1,4 @@
-// geneate random color with hex value 
-
+// Generate Color random 
 const randomColor = function () {
     const hex = '0123456789ABCDEF'
     let color = '#'
@@ -20,6 +19,7 @@ const startChangingColor = function () {
         document.body.style.backgroundColor = randomColor();
     }
 }
+
 
 const stopChangingColor = function () {
     clearInterval(intervalId);
